@@ -1,4 +1,4 @@
-# HW11 Q2 – Bootstrap Sampling & Bagging on Moon Dataset
+# Bootstrap Sampling & Bagging on Moon Dataset
 
 This repository contains a Jupyter notebook that applies **bootstrap sampling** and **bagging (bootstrap aggregating)** using a simple **Keras neural network** on a binary classification problem (the “moon” dataset).
 
